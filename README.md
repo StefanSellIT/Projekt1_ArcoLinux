@@ -17,6 +17,9 @@ ssh -i Ubuntu-StefanS-Key.pem ec2-54-93-36-94.eu-central-1.compute.amazonaws.com
 
 ## Projekt Umgebung vorbereiten
 
+git remote add git@github.com:StefanSellIT/Projekt1_ArcoLinux.git
+
+
 #### Erstellen Sie ein Vezeichnis mit dem Name Projekt1
 
     cd
