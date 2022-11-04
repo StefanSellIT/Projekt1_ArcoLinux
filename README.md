@@ -1,10 +1,10 @@
 Titel:      Dokumentattion von Git/Github Repository
 Date:       03-11-2022
-Author:     Renato Palavecino
+Author:     Renato Palavecino, bearbeitet von Stefan Sell
 Keywords:   Git, Github, Linux
 
 # Bilder und Links
-![ArchLinux](Bilder/Archlinux.jpg)
+![ArchLinux](https://github.com/StefanSellIT/Projekt1_ArcoLinux/blob/master/Bilder/archlinux.jpg)
 [ArchWiki](https://wiki.archlinux.org/)
 
 # ssh Schlüssel erstellen
